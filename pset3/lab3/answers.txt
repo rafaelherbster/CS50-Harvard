@@ -1,0 +1,22 @@
+sort1 uses:bubble sort
+
+How do you know?: in best scenario, bubble sort is most efficient than selection sort
+
+sort2 uses: merge sort
+
+How do you know?: in worst scenario, merge sort is most efficient than selection or bubble sort.
+
+sort3 uses:selection sort
+
+How do you know?: last option left.
+
+best scenario
+random 5000
+sort3 > sort1
+-----------------------
+worst scenario
+random 50000
+sort3 > sort1 = sort2
+
+reversed 50000
+sort1 > sort3 = sort2
